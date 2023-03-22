@@ -1,0 +1,217 @@
+﻿  CollisionManager.cpp
+  GameEnd.cpp
+  GameHighScore.cpp
+  GameInfo.cpp
+  GameMenu.cpp
+  GameSetting.cpp
+  ResourceManager.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameManager\ResourceManager.cpp(110,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Animation.cpp
+  Boss1.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\Boss1.cpp(95,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Boss2.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\Boss2.cpp(58,82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+  BulletSpawn.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(110,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(128,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(129,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(146,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(146,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(147,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\BulletSpawn.cpp(147,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Creep.cpp
+  CreepSpawn.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(116,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(116,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(117,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(133,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(133,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\CreepSpawn.cpp(134,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameButton.cpp
+  HitBox.cpp
+  Layer.cpp
+  ParallaxBackground.cpp
+  Player.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\Player.cpp(180,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\SourceGame\GameObject\Player.cpp(188,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Text.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\main.cpp(322,40): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Generating Code...
+  
+  Searching libraries
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2.lib:
+      Searching C:\SDL_lib_VS\SDL2-2.26.3\lib\x64\SDL2main.lib:
+      Searching C:\SDL_lib_VS\SDL2_image-2.6.3\lib\x64\SDL2_image.lib:
+      Searching C:\SDL_lib_VS\SDL2_ttf-2.20.2\lib\x64\SDL2_ttf.lib:
+      Searching C:\SDL_lib_VS\SDL2_mixer-2.6.3\lib\x64\SDL2_mixer.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\vcruntimed.lib:
+  
+  Finished searching libraries
+  NINJA ADVENTURE.vcxproj -> C:\GAME_PROJECT\FirstGame\NINJA ADVENTURE\x64\Debug\NINJA ADVENTURE.exe
